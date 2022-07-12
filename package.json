@@ -20,6 +20,8 @@
     "typescript": "^4.7.4"
   },
   "dependencies": {
+    "progress": "^2.0.3",
+    "rd": "^2.0.1",
     "vite": "*"
   }
 }
