@@ -1,6 +1,6 @@
 {
   "name": "myvite-plugin-zyd",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A vite plugin template",
   "main": "dist/index.js",
   "scripts": {
